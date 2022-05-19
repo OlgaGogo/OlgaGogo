@@ -5,7 +5,6 @@
 - 👀 Interesting fact: I have 5 years backround working with e-commerce
 - ⚡ Fun fact: I speak 3 languages (English, French and Russian) 😜
 - 📫 How to reach me: 
-- [email me](olga.gogoleva.can@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/olga-gogoleva-can/?locale=en_US)
 
 ### About me
