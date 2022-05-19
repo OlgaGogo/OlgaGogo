@@ -2,7 +2,6 @@
 - 🔭 My name is Olga and I am a junior QA Automation Engineer living in Vancouver, BC, Canada 🇨🇦
 - 🌱 I’m riecently finished QA course and learned a lot about Manual & Automation Testing 
 - 👯 I’m looking to collaborate on any projects that will help me to gain more experience with QA
-- How to reach me: 
 - ⚡ Fun fact: I speak 3 languages (English, French and Russian) 😜
 - 📫 How to reach me: 
 - [email me](olga.gogoleva.can@gmail.com)
