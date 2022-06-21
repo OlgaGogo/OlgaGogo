@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 My name is Olga and I am a junior QA Automation Engineer living in Vancouver, BC, Canada 🇨🇦
+- 🔭 My name is Olga and I am a QA Automation Engineer living in Vancouver, BC, Canada 🇨🇦
 - 🌱 I riecently finished QA course and learned a lot about Manual & Automation Testing 
 - 👯 I’m looking to collaborate on any projects that will help me to gain more experience with QA
 - 👀 Interesting fact: I have 5 years backround working with e-commerce
