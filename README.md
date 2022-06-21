@@ -12,16 +12,11 @@ I enjoy travel, snowboarding, hiking, biking, and learning new skills. I have re
 
 ### My tech skills
 Test Management Tools: 	JIRA, TestLink, HP QualityCenter, Elementool
-
 Test Automation Tools: 	Selenium WebDriver, UFT, SoapUI, REST API, WebLOAD
-
 Programming languages: 	Java, VBScript, SQL, HTML
-
-Applications: MS Office, Wordpress, Git/Github, Subversion, VMware, MySQL Workbench
-
-Databases: MS SQL, MS Access, MySQL 
-
-Operating Systems: 		Win 7/8/10/11, Linux Ubuntu/UNIX, iOS, Android 
+Applications:           Wordpress, Git/Github, Subversion, VMware, MySQL Workbench
+Databases:              MS SQL, MS Access, MySQL 
+Operating Systems: 		  Win 7/8/10/11, Linux Ubuntu/UNIX, iOS, Android 
 
 
 
