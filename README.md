@@ -11,13 +11,9 @@
 I enjoy travel, snowboarding, hiking, biking, and learning new skills. I have recently decided to change career paths and began studying QA testing and I am loving it! QA testing suits me very well as I am detail-oriented, enjoy working with data and technology, and enjoy having a positive impact on projects to make them better.
 
 ### My tech skills
-Test Management Tools: 	JIRA, TestLink, HP QualityCenter, Elementool
-Test Automation Tools: 	Selenium WebDriver, UFT, SoapUI, REST API, WebLOAD
-Programming languages: 	Java, VBScript, SQL, HTML
-Applications:           Wordpress, Git/Github, Subversion, VMware, MySQL Workbench
-Databases:              MS SQL, MS Access, MySQL 
-Operating Systems: 		  Win 7/8/10/11, Linux Ubuntu/UNIX, iOS, Android 
-
-
-
-
+- Test Management Tools: 	JIRA, TestLink, HP QualityCenter, Elementool, TestRail
+- Test Automation Tools: 	Selenium WebDriver, UFT, SoapUI, REST API, WebLOAD
+- Programming languages: 	Java, VBScript, SQL, HTML
+- Applications:           Wordpress, Git/Github, Subversion, VMware, MySQL Workbench
+- Databases:              MS SQL, MS Access, MySQL 
+- Operating Systems: 		  Win 7/8/10/11, Linux Ubuntu/UNIX, iOS, Android 
