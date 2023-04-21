@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 My name is Olga, and I am a QA Automation Engineer living in Vancouver, BC, Canada 🇨🇦
 - 🌱 I'm ISTQB certified and experienced in Manual & Automation Testing 
-- 👩🏽‍💻 Currently I am a freelancer on uTest Platform and a teaching assistant in Hitek Computer School
+- 👩🏽‍💻 Currently I am a QA Engineer at MinuteBox and a teaching assistant in Hitek Computer School
 - 👀 Interesting fact: I have 14 years of background working in sales, including 5 years e-commerce experience
 - ⚡ Fun fact: I speak 3 languages (English, French and Russian) 
 - 📫 How to reach me: 
