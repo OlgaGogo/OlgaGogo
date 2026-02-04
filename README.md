@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 My name is Olga, and I am a full stack QA Engineer living in Victoria, BC, Canada 🇨🇦
+- 🔭 My name is Olga, and I am a full stack QA Engineer living in Fredericton, NB, Canada 🇨🇦
 - 🌱 I'm ISTQB certified and experienced in Manual & Automation Testing 
 - 👩🏽‍💻 Currently, I am a QA Engineer at MinuteBox
 - 👀 Interesting fact: I have 14 years of background working in sales, including 5 years of e-commerce experience
